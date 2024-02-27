@@ -9,7 +9,7 @@ public class Main {
         //Membuat variable string berisi Hello World!
         String output = "Hello World!";
 
-        //Mengeluarkan hasil output "Hello world!" di terminal
+        //Mengeluarkan hasil output "Hello World!" di terminal
         System.out.println(output);
     }
 }
